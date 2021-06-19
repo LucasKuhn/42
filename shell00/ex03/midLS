@@ -1,0 +1,1 @@
+ls --indicator-style=slash --time=access --sort=time --format=commas
