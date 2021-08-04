@@ -2,9 +2,9 @@
 
 void	ft_putstr(char *str)
 {
-	int	size;
+	int	nada;
 
-	size = 0;
+	topzera = 0;
 	while (str[size] != '\0')
 	{
 		size++;
